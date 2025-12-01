@@ -1,0 +1,60 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+      "id": 941109,
+      "title": "Play Dirty",
+      "original_title": "Play Dirty",
+      "overview": "Expert thief Parker gets a shot at a major heist...",
+      "poster_path": "/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [80],
+      "popularity": 232.8333,
+      "release_date": "2025-09-30",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+      "id": 1245993,
+      "title": "Caught Stealing",
+      "original_title": "Caught Stealing",
+      "overview": "Burned-out ex-baseball player Hank Thompson...",
+      "poster_path": "/yzhay59xLcHwvcsGfpqzh6zcgfG.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [80, 53, 35],
+      "popularity": 84.3836,
+      "release_date": "2025-08-26",
+      "video": false,
+      "vote_average": 7.014,
+      "vote_count": 248
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+      "id": 436969,
+      "title": "The Suicide Squad",
+      "original_title": "The Suicide Squad",
+      "overview": "Supervillains Harley Quinn, Bloodsport...",
+      "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [28, 35, 12],
+      "popularity": 23.3224,
+      "release_date": "2021-06-06",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 9154
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
+
+
